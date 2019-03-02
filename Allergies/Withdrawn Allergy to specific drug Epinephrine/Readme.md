@@ -4,8 +4,6 @@
 * Example Task Force: 4/17/2014
 * SDWG: Withdrawn from consideration since not clinically relevant.
 
-
-
 ###C-CDA 2.1 Example:
 
 
